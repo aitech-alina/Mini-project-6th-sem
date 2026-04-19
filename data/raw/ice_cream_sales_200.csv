@@ -1,0 +1,201 @@
+Day,Temperature,Rainfall,Holiday,Ice_Cream_Sold,Notes
+Sunday,25,19,No,106,Windy
+Thursday,31,9,Yes,194,Windy
+Friday,31,5,Yes,161,Sunny day
+Sunday,39,14,Yes,96,Cool
+Wednesday,30,10,No,134,Hot
+Friday,26,4,No,191,Hot
+Friday,20,0,No,115,Cloudy
+Sunday,20,7,No,124,Cool
+Tuesday,39,11,No,152,Windy
+Wednesday,32,11,No,87,Sunny day
+Sunday,28,4,No,99,Cloudy
+Wednesday,22,6,Yes,147,Hot
+Wednesday,26,3,Yes,131,Windy
+Friday,25,5,Yes,79,Windy
+Thursday,27,12,Yes,128,Sunny day
+Wednesday,28,19,Yes,140,Hot
+Saturday,24,14,Yes,101,Cool
+Friday,20,2,Yes,128,Windy
+Tuesday,38,7,No,79,Sunny day
+Thursday,29,19,No,155,Cool
+Saturday,31,15,Yes,100,Hot
+Saturday,34,12,Yes,130,Windy
+Tuesday,28,17,No,182,Cool
+Thursday,39,9,Yes,78,Cool
+Friday,36,18,Yes,181,Cool
+Monday,36,16,No,187,Windy
+Thursday,39,18,Yes,194,Windy
+Tuesday,31,4,No,123,Cloudy
+Saturday,26,8,Yes,66,Hot
+Friday,21,11,No,133,Sunny day
+Thursday,22,0,No,118,Cool
+Monday,36,0,No,83,Cloudy
+Monday,24,14,Yes,55,Sunny day
+Wednesday,36,1,No,102,Cloudy
+Wednesday,36,15,Yes,175,Windy
+Sunday,36,7,Yes,92,Cool
+Tuesday,21,12,Yes,164,Sunny day
+Thursday,21,0,Yes,160,Sunny day
+Thursday,24,15,No,129,Sunny day
+Sunday,20,6,No,144,Sunny day
+Saturday,20,4,Yes,167,Sunny day
+Saturday,38,2,Yes,193,Cloudy
+Sunday,21,11,No,57,Cool
+Saturday,31,15,Yes,181,Windy
+Wednesday,25,18,No,153,Windy
+Thursday,23,4,Yes,181,Windy
+Sunday,30,13,Yes,74,Windy
+Thursday,36,4,No,145,Cloudy
+Monday,25,14,Yes,142,Hot
+Wednesday,24,16,No,110,Cool
+Friday,39,13,Yes,171,Sunny day
+Wednesday,21,19,Yes,100,Hot
+Sunday,25,4,Yes,196,Windy
+Friday,30,11,No,70,Hot
+Monday,35,15,Yes,54,Cool
+Sunday,35,15,Yes,141,Sunny day
+Tuesday,20,6,Yes,110,Sunny day
+Thursday,28,3,Yes,71,Cool
+Monday,25,0,No,198,Cool
+Thursday,35,4,No,119,Windy
+Saturday,22,9,Yes,50,Sunny day
+Tuesday,39,4,No,182,Hot
+Tuesday,23,3,Yes,61,Cloudy
+Monday,38,1,Yes,139,Cloudy
+Tuesday,22,19,Yes,95,Cool
+Friday,38,9,No,83,Windy
+Tuesday,39,18,No,127,Cloudy
+Thursday,26,0,No,94,Sunny day
+Thursday,39,4,No,122,Cool
+Sunday,28,12,No,75,Hot
+Thursday,20,3,No,96,Cool
+Sunday,27,15,No,170,Hot
+Thursday,26,15,No,105,Cool
+Friday,37,1,No,143,Cool
+Sunday,27,16,Yes,156,Cool
+Wednesday,20,19,No,112,Hot
+Saturday,30,11,No,97,Hot
+Monday,37,17,No,110,Cool
+Thursday,29,2,No,130,Cloudy
+Tuesday,22,0,No,75,Windy
+Thursday,26,0,No,85,Windy
+Tuesday,35,18,No,50,Windy
+Saturday,35,10,No,57,Hot
+Saturday,39,4,No,162,Hot
+Saturday,36,11,No,148,Cloudy
+Tuesday,21,2,No,96,Windy
+Thursday,20,0,Yes,176,Windy
+Saturday,35,0,Yes,105,Cool
+Friday,31,7,No,63,Hot
+Sunday,24,9,No,77,Windy
+Tuesday,24,10,Yes,127,Cloudy
+Tuesday,28,11,No,179,Cloudy
+Thursday,28,12,Yes,158,Windy
+Tuesday,22,11,Yes,63,Hot
+Tuesday,38,13,Yes,105,Cloudy
+Saturday,35,1,Yes,164,Cool
+Thursday,35,18,Yes,56,Cloudy
+Saturday,22,17,No,52,Sunny day
+Sunday,39,2,Yes,160,Sunny day
+Sunday,20,16,No,156,Hot
+Saturday,39,7,No,67,Windy
+Sunday,30,9,Yes,87,Hot
+Thursday,36,1,Yes,164,Hot
+Monday,27,18,No,64,Hot
+Saturday,23,8,Yes,168,Hot
+Friday,25,6,Yes,77,Cool
+Friday,27,3,No,88,Cool
+Tuesday,39,17,No,66,Cloudy
+Sunday,22,12,Yes,135,Sunny day
+Friday,35,10,No,175,Hot
+Tuesday,22,3,Yes,93,Cloudy
+Monday,37,3,Yes,74,Sunny day
+Thursday,33,9,Yes,194,Windy
+Thursday,37,4,No,62,Cool
+Thursday,21,8,No,74,Sunny day
+Friday,22,2,No,117,Windy
+Monday,35,16,No,187,Sunny day
+Friday,28,2,No,116,Cool
+Sunday,23,15,Yes,158,Cool
+Friday,20,3,Yes,195,Cloudy
+Monday,23,17,Yes,160,Hot
+Monday,20,16,Yes,160,Sunny day
+Sunday,33,6,No,83,Sunny day
+Monday,35,4,Yes,160,Windy
+Monday,39,11,No,57,Cool
+Thursday,27,16,Yes,162,Sunny day
+Sunday,26,12,No,132,Cool
+Wednesday,22,2,No,91,Sunny day
+Wednesday,36,8,Yes,150,Cloudy
+Monday,20,16,Yes,55,Hot
+Wednesday,35,16,Yes,75,Sunny day
+Wednesday,31,19,Yes,113,Cool
+Monday,38,15,No,108,Cloudy
+Wednesday,33,12,Yes,158,Sunny day
+Friday,25,18,Yes,170,Windy
+Tuesday,25,16,No,82,Hot
+Sunday,32,3,Yes,199,Sunny day
+Tuesday,38,11,Yes,70,Cloudy
+Monday,27,8,Yes,119,Windy
+Thursday,21,18,Yes,161,Cloudy
+Sunday,20,11,Yes,53,Cloudy
+Monday,34,8,No,143,Windy
+Thursday,20,6,Yes,124,Cloudy
+Tuesday,24,13,Yes,111,Windy
+Monday,35,19,Yes,143,Sunny day
+Sunday,38,18,Yes,144,Windy
+Sunday,23,14,Yes,104,Windy
+Saturday,22,15,No,186,Hot
+Friday,36,4,Yes,180,Windy
+Wednesday,36,2,No,80,Windy
+Thursday,31,11,No,89,Sunny day
+Saturday,33,19,Yes,85,Hot
+Wednesday,25,3,Yes,55,Cool
+Wednesday,22,15,Yes,115,Sunny day
+Monday,28,6,Yes,124,Sunny day
+Wednesday,24,12,No,53,Cool
+Friday,36,9,Yes,128,Windy
+Sunday,33,6,Yes,183,Cloudy
+Saturday,22,13,Yes,167,Hot
+Wednesday,20,4,Yes,162,Cloudy
+Monday,39,2,Yes,143,Cool
+Friday,20,10,Yes,111,Sunny day
+Tuesday,22,10,No,128,Sunny day
+Sunday,37,17,No,185,Hot
+Sunday,29,14,Yes,75,Sunny day
+Saturday,22,11,Yes,93,Sunny day
+Sunday,27,8,Yes,182,Hot
+Wednesday,33,9,No,119,Hot
+Monday,37,11,Yes,167,Cool
+Sunday,34,16,No,117,Sunny day
+Sunday,21,5,Yes,68,Sunny day
+Tuesday,29,6,Yes,69,Cool
+Tuesday,21,13,Yes,162,Windy
+Thursday,36,12,Yes,189,Windy
+Friday,27,7,No,96,Windy
+Wednesday,20,9,No,50,Cool
+Sunday,28,8,Yes,139,Sunny day
+Sunday,30,17,Yes,191,Cool
+Monday,35,1,No,113,Cool
+Thursday,26,4,No,87,Windy
+Friday,29,4,No,86,Cloudy
+Thursday,22,5,No,175,Sunny day
+Saturday,37,18,Yes,188,Windy
+Friday,32,7,No,149,Cloudy
+Sunday,26,15,Yes,126,Cloudy
+Sunday,23,12,No,52,Hot
+Friday,32,0,No,183,Sunny day
+Sunday,39,19,No,59,Cloudy
+Wednesday,20,16,No,54,Windy
+Friday,27,6,No,187,Hot
+Thursday,33,12,Yes,179,Sunny day
+Friday,35,3,Yes,62,Cool
+Sunday,33,3,No,179,Windy
+Wednesday,31,5,No,133,Cloudy
+Wednesday,38,18,Yes,114,Cloudy
+Saturday,34,11,No,112,Windy
+Thursday,21,6,No,150,Cloudy
+Tuesday,21,9,Yes,122,Hot
+Tuesday,38,18,No,66,Sunny day
+Friday,36,6,No,58,Hot

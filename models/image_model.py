@@ -3,11 +3,13 @@ import cv2
 import re
 import os
 # Try to set Tesseract path
+# Note: The installer at C:\Users\Admin\Downloads\tesseract-ocr-w64-setup-5.5.0.20241111.exe
+# will install Tesseract to C:\Program Files\Tesseract-OCR\tesseract.exe
 TESSERACT_PATHS = [
-    r'C:\Program Files\Tesseract-OCR\tesseract.exe',
-    r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe',
-    '/usr/bin/tesseract',
-    '/usr/local/bin/tesseract'
+    r'C:\Program Files\Tesseract-OCR\tesseract.exe',  # 64-bit default installation
+    r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe',  # 32-bit alternative
+    '/usr/bin/tesseract',  # Linux
+    '/usr/local/bin/tesseract'  # macOS
 ]
 
 for path in TESSERACT_PATHS:
