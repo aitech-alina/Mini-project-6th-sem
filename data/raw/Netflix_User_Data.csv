@@ -1,0 +1,101 @@
+User_ID,Age,Region,Preferred_Genre,Watch_Time_per_Day(hrs),Binge_Watcher (Yes/No),Monthly_Subscription_Cost($),Avg_Series_Rating
+U001,54,North America,Action,4.09,Yes,24.01,4.83
+U002,44,South America,Action,1.73,No,16.47,4.67
+U003,30,Asia,Comedy,4.42,No,17.64,2.61
+U004,58,Asia,Romance,1.8,No,13.97,2.57
+U005,23,North America,Drama,2.29,Yes,10.86,3.44
+U006,36,Asia,Sci-Fi,4.61,Yes,11.57,4.53
+U007,54,Asia,Thriller,4.07,Yes,18.45,4.97
+U008,34,North America,Drama,5.17,Yes,20.05,2.88
+U009,38,Asia,Romance,4.12,Yes,20.83,3.99
+U010,26,Africa,Horror,3.63,No,20.79,3.45
+U011,26,Europe,Thriller,1.02,No,6.82,4.92
+U012,39,Europe,Horror,2.52,Yes,14.89,4.61
+U013,51,North America,Comedy,1.96,No,6.15,4.6
+U014,55,South America,Comedy,1.84,No,15.99,3.67
+U015,39,North America,Action,5.85,Yes,13.83,3.54
+U016,18,South America,Horror,2.66,No,22.75,3.18
+U017,37,Europe,Romance,5.41,Yes,12.02,2.64
+U018,17,North America,Sci-Fi,3.97,Yes,7.34,4.66
+U019,39,Africa,Thriller,4.87,Yes,7.86,4.53
+U020,59,Asia,Drama,3.26,No,20.23,5.0
+U021,45,South America,Romance,3.67,Yes,17.36,4.99
+U022,53,Asia,Romance,3.21,Yes,7.02,3.89
+U023,17,Asia,Comedy,1.57,Yes,6.68,4.42
+U024,36,North America,Horror,4.47,Yes,19.02,4.86
+U025,48,Asia,Action,2.04,No,6.46,4.62
+U026,27,Africa,Action,0.63,No,21.44,3.12
+U027,37,Asia,Thriller,4.05,Yes,19.12,3.63
+U028,59,North America,Comedy,1.47,Yes,6.63,2.82
+U029,40,Africa,Romance,5.67,Yes,6.7,4.89
+U030,64,Europe,Sci-Fi,5.75,Yes,24.73,4.02
+U031,42,Asia,Comedy,5.53,Yes,12.49,3.07
+U032,57,North America,Thriller,2.54,Yes,12.41,4.18
+U033,43,Europe,Thriller,0.59,Yes,21.26,4.05
+U034,31,Europe,Comedy,5.61,No,23.94,3.4
+U035,30,South America,Thriller,2.86,No,24.72,2.78
+U036,62,Africa,Comedy,5.82,Yes,20.07,4.18
+U037,59,Asia,Drama,5.8,Yes,12.53,3.8
+U038,18,North America,Comedy,5.19,No,6.67,4.43
+U039,52,South America,Horror,2.12,Yes,20.54,3.8
+U040,22,Africa,Comedy,2.62,No,16.17,4.63
+U041,36,South America,Thriller,5.18,No,13.48,3.88
+U042,24,Africa,Horror,2.24,Yes,23.13,3.9
+U043,54,Africa,Thriller,1.43,Yes,7.22,4.69
+U044,33,Asia,Action,3.56,No,14.85,3.51
+U045,19,Africa,Action,5.65,Yes,5.23,2.84
+U046,40,South America,Horror,4.33,Yes,14.37,2.57
+U047,29,Africa,Drama,3.64,No,6.13,4.39
+U048,24,Asia,Action,1.03,Yes,7.38,4.05
+U049,41,Asia,Comedy,3.88,Yes,7.35,4.26
+U050,17,South America,Thriller,5.95,No,17.98,3.03
+U051,35,Europe,Action,1.27,Yes,19.92,2.84
+U052,43,Europe,Action,3.35,Yes,16.67,2.54
+U053,62,Africa,Drama,5.33,No,24.24,3.38
+U054,22,North America,Horror,4.57,Yes,12.5,3.97
+U055,59,Africa,Horror,4.33,No,10.71,3.48
+U056,23,South America,Romance,4.36,No,22.37,3.59
+U057,62,South America,Drama,2.48,Yes,9.47,4.76
+U058,50,South America,Comedy,2.11,Yes,24.26,3.37
+U059,29,South America,Horror,4.95,Yes,5.24,3.78
+U060,32,South America,Thriller,4.96,Yes,24.4,4.46
+U061,51,Asia,Drama,5.27,Yes,5.86,3.49
+U062,55,Europe,Action,5.52,No,22.82,4.06
+U063,19,South America,Thriller,3.31,Yes,15.55,4.66
+U064,17,North America,Thriller,3.26,Yes,24.86,4.87
+U065,21,North America,Action,4.89,No,6.48,2.87
+U066,57,North America,Drama,4.07,Yes,16.08,4.82
+U067,19,North America,Action,4.36,No,24.39,3.73
+U068,44,Asia,Romance,4.88,Yes,15.46,3.15
+U069,33,North America,Thriller,5.4,Yes,17.59,3.65
+U070,41,South America,Sci-Fi,2.36,No,18.91,4.95
+U071,59,Africa,Sci-Fi,2.57,No,14.09,3.73
+U072,49,North America,Comedy,1.02,No,17.55,3.32
+U073,25,Asia,Horror,3.68,No,16.69,4.08
+U074,51,Asia,Action,0.7,No,23.02,3.1
+U075,29,North America,Action,3.06,Yes,5.91,2.69
+U076,46,Africa,Comedy,3.48,Yes,10.62,2.82
+U077,63,North America,Comedy,2.08,No,24.01,2.82
+U078,30,Asia,Comedy,3.75,No,22.81,2.88
+U079,23,Europe,Thriller,0.67,No,14.11,2.85
+U080,29,South America,Romance,0.71,Yes,17.4,4.1
+U081,38,Asia,Action,5.02,Yes,10.55,2.95
+U082,55,North America,Thriller,2.48,No,8.76,3.36
+U083,36,South America,Comedy,1.2,Yes,14.27,4.74
+U084,31,North America,Action,3.37,No,12.07,3.68
+U085,60,North America,Thriller,4.73,No,16.67,4.17
+U086,33,Europe,Romance,1.69,Yes,6.55,2.93
+U087,62,South America,Thriller,3.93,No,24.49,2.98
+U088,39,South America,Romance,0.97,No,24.72,2.6
+U089,41,Europe,Comedy,0.78,Yes,18.96,2.92
+U090,40,Asia,Romance,3.42,No,15.72,3.2
+U091,60,North America,Action,3.47,Yes,11.19,2.94
+U092,56,Africa,Comedy,4.01,No,21.28,2.72
+U093,44,North America,Action,4.49,Yes,18.69,2.8
+U094,30,North America,Sci-Fi,5.87,No,8.25,3.65
+U095,60,Asia,Drama,3.34,Yes,23.22,3.02
+U096,16,North America,Romance,2.28,Yes,21.45,3.41
+U097,40,Europe,Drama,4.87,No,24.0,3.76
+U098,22,Europe,Drama,1.99,Yes,19.51,4.23
+U099,24,South America,Romance,2.91,Yes,17.27,2.6
+U100,39,Africa,Comedy,0.93,No,13.36,4.5
